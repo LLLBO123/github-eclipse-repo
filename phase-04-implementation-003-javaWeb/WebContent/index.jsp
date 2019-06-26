@@ -7,6 +7,7 @@
 .background1 {
 	background-image: url(/static/imgs/warriors.png);
 	background-color: #000000;
+	background-size:cover;
 }
 </style>
 <script>
@@ -79,6 +80,6 @@
 			src="/static/video/movie.mp4" onended="onVideoEnd();" />
 	</div>
 	<div id="hornor" style="display:none;position:absolute;left:10x; bottom:10px;color:white;font-size:24px" align="center">2019年发生了很多大事，
-	nba总决赛结束了<span style="color:red">杜兰特赛季报销</span>和<span style="color:orange">汤普森受伤</span>  <br/>勇士的锋线实在没有猛龙的强，拼劲全力最后依然抵不过<br/> 我目睹了一个王朝的崛起，然后又落幕！！<br/>最后我只想说双方给出了最高水平的对决，早已没有输赢，范乔丹乃是真·乔丹！！！</div>
+	nba总决赛结束了<span style="color:yellow">杜兰特赛季报销</span>和<span style="color:orange">汤普森受伤</span>  <br/>勇士的锋线实在没有猛龙的强，拼劲全力最后依然抵不过<br/> 我目睹了一个王朝的崛起，然后又落幕！！<br/>最后我只想说双方给出了最高水平的对决，早已没有输赢，范乔丹乃是真·乔丹！！！</div>
 </body>
 </html>
