@@ -70,7 +70,7 @@
 			-廖宇鹏 </span><br /> <br /> 输球已成事实，这就是人生的一部分 <br /> 未来还有很长的路要走，还有很多机会可以把握
 	</div>
 	<img src="/static/imgs/all.jpg"
-		style="position: absolute; left: 10px; bottom: 10px; width: 150px"
+		style="position: absolute; right: 10px; bottom: 10px; width: 150px"
 		onclick="run(this);return false" 
 		title="点击后，开始流浪 ！"
 		/>
